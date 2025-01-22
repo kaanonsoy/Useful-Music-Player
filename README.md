@@ -3,6 +3,8 @@ A useful music player designed to be used with the Rainmeter app.
 
 <img src="https://github.com/kaanonsoy/Useful-Music-Player/blob/main/interface.png">
 
+This music player is compatible with Spotify, Spotube and Web.
+
 ## How to Download
 Download the .rmskin file and open it with rainmeter. If you can't open it with rainmeter, download the folders named "plugins" and "skins" and move them manually to the necessary sections of the rainmeter application.
 
