@@ -18,6 +18,7 @@ Plugin Github: https://github.com/keifufu/WebNowPlaying
 
 
 ## How to Use
+<img src="https://github.com/kaanonsoy/Useful-Music-Player/blob/main/interface2.png">
 You can perform pause, start, previous, replay, repeat, rewind, shuffle, like or dislike, turn the volume down or up on your music via this music player.You can change the size of the music player using your mouse scroll.
 
 ### Keyboard shortcuts
