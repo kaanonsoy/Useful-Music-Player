@@ -22,3 +22,15 @@ Plugin Github: https://github.com/keifufu/WebNowPlaying
 You can perform pause, start, previous, replay, repeat, rewind, shuffle, like or dislike, turn the volume down or up on your music via this music player.You can change the size of the music player using your mouse scroll.
 
 ### Keyboard shortcuts
+
+LSHIFT + LWIN == Show-Hide
+
+LALT + LWIN == Play-Pause
+
+LCTRL + LWIN == Seek Backward
+
+LCTRL + LALT == 	Seek Forward
+
+
+
+Note: If you want to change these keyboard shortcuts, you can open the Useful Music Player.ini file with notepad and make changes. If you want to get more detailed information, you can go to https://github.com/github/hotkey
